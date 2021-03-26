@@ -18,7 +18,7 @@ department <- "Computer Science Department"
 university <- "Columbia University"
 github_home <- "https://github.com/uchicago-computation-workshop"
 #Update Weekly
-issues_url <- "https://github.com/uchicago-computation-workshop/Winter2021/issues/1"
+issues_url <- "https://github.com/uchicago-computation-workshop/Spring2021/issues/1"
 zoom_url <- "https://uchicago.zoom.us/meeting/register/tJUodu6urD4uGtGyWjio-w5DPZ-ElCri9nzt"
 #Papers
 week_paper_ref0 <- "Stoica, A.A., Han, J.X., Chaintreau, A. (2020). Seeding Network Influence in Biased Networks and the Benefits of Diversity. Proceedings of The Web Conference 2020, (pp. 2089-2098)."
@@ -89,7 +89,7 @@ under which more equitable choices of early adopters lead simultaneously to fair
 <br>
 
 <p class=footertext2>
-**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](`r zoom_url`) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+**Registration** : The presentation will be held virtually on Zoom. For security purposes, please register through this [link](`r zoom_url`) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 </p>
 
 <br>

@@ -1,13 +1,3 @@
----
-output:
-  html_document:
-    highlight: null
-    css: style.css
-    self_contained: no
-    keep_md: true
----
-
-
 
 
 
@@ -61,7 +51,7 @@ under which more equitable choices of early adopters lead simultaneously to fair
 <br>
 
 <p class=footertext2>
-**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJUodu6urD4uGtGyWjio-w5DPZ-ElCri9nzt) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+**Registration** :The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJUodu6urD4uGtGyWjio-w5DPZ-ElCri9nzt) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 </p>
 
 <br>
