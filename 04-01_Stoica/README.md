@@ -68,4 +68,4 @@ This week's suggested readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2021/issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/04-01_Stoica>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2021/issues/1 page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/04-01_Stoica>workshop's public repository on GitHub.</a></p>
