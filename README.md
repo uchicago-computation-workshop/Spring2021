@@ -1,4 +1,4 @@
-# Spring2021
+# Spring 2021
 ### Thursdays, 11:20am-12:40pm
 
 <br>
