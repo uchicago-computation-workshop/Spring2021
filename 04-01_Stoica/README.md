@@ -50,9 +50,7 @@ under which more equitable choices of early adopters lead simultaneously to fair
 
 <br>
 
-<p class=footertext2>
-**Registration** :The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJUodu6urD4uGtGyWjio-w5DPZ-ElCri9nzt) to request access. Only accounts affiliated with the University of Chicago will be granted access.
-</p>
+**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJUodu6urD4uGtGyWjio-w5DPZ-ElCri9nzt ) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 
 <br>
 This week's suggested readings:
@@ -70,4 +68,4 @@ This week's suggested readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2021/issues/1>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/04-01_Stoica>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2021/issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/04-01_Stoica>workshop's public repository on GitHub.</a></p>
