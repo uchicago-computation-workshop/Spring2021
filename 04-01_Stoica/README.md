@@ -1,3 +1,13 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+
 
 
 
@@ -49,7 +59,9 @@
 
 <br>
 
-**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJUodu6urD4uGtGyWjio-w5DPZ-ElCri9nzt ) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+<p class=footertext2>
+**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJUodu6urD4uGtGyWjio-w5DPZ-ElCri9nzt) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+</p>
 
 <br>
 This week's suggested readings:
@@ -63,7 +75,7 @@ This week's suggested readings:
 
 ---
 
-<p class=footertext> The 2020-2021 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:20 a.m. to 12:40 p.m.. All interested faculty and graduate students are welcome.</p>
+<p class=footertext> The 2020-2021 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:20 a.m. to 12:40 p.m. All interested faculty and graduate students are welcome.</p>
 
 
 
