@@ -46,7 +46,8 @@
 
 <p class=footertext2>
 
-**Eytan Bakshy** is the principal scientist and director on the Facebook Core Data Science Team, where he leads the Adaptive Experimentation group. Eytan is particularly interested in developing practical and robust methods for sequential experimentation and reinforcement learning for real-world applications. Much of Eytan's work has beeen motivated by the use of randomized experiments for understanding social behavior, including influence and information diffusion in networks.
+**Eytan Bakshy** Eytan Bakshy is a research director and scientist at Facebook, where he leads the Adaptive Experimentation team.  Eytan’s work focuses on developing robust, general-purpose methods for decision making under uncertainty, and applying these methods broadly across Facebook and sister companies.  His interests include reinforcement learning, causal inference, Bayesian optimization, and Bayesian machine learning.  Eytan holds a Ph.D. in Information from the University of Michigan, and a B.S. in Mathematics and Computer Science from the University of Illinois in Urbana-Champaign.
+
 </p>
 
 <br>
