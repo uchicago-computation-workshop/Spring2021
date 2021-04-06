@@ -18,7 +18,7 @@ department <- "Facebook Core Data Science Team"
 university <- "Facebook"
 github_home <- "https://github.com/uchicago-computation-workshop"
 #Update Weekly
-issues_url <- "https://github.com/uchicago-computation-workshop/Spring2021/issues/1"
+issues_url <- "https://github.com/uchicago-computation-workshop/Spring2021/issues/2"
 zoom_url <- "https://uchicago.zoom.us/meeting/register/tJErfu6vqjMpE9xmQAuBstken9es1UOfeBzh"
 #Papers
 week_paper_ref0 <- "Letham, B., Feng, Q., Daulton, S., Bakshy, E. (2021). Real-World Bayesian Optimization with A/B Tests."
@@ -96,6 +96,7 @@ readings2 <- paste0("[", week_paper_ref2,"](https://github.com/uchicago-computat
 </p>
 
 <br>
+
 This week's recommended reading:
 
 - `r readings0`
