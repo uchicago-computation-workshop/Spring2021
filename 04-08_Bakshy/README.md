@@ -51,9 +51,7 @@
 
 <br>
 
-<p class=footertext2>
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJErfu6vqjMpE9xmQAuBstken9es1UOfeBzh) to request access. Only accounts affiliated with the University of Chicago will be granted access.
-</p>
 
 <br>
 
