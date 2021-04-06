@@ -54,7 +54,7 @@ output:
 
 <p class=footertext2>
 
-**Eytan Bakshy** is the principal scientist and director on the Facebook Core Data Science Team, where he leads the Adaptive Experimentation group. Eytan is particularly interested in developing practical and robust methods for sequential experimentation and reinforcement learning for real-world applications. Much of Eytan's work has beeen motivated by the use of randomized experiments for understanding social behavior, including influence and information diffusion in networks.
+**Eytan Bakshy** is the principal scientist and director on the Facebook Core Data Science Team, where he leads the Adaptive Experimentation group. Eytan is particularly interested in developing practical and robust methods for sequential experimentation and reinforcement learning for real-world applications. Much of Eytan's work has been motivated by the use of randomized experiments for understanding social behavior, including influence and information diffusion in networks.
 
 </p>
 
