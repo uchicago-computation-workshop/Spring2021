@@ -1,3 +1,11 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
 
 
 
@@ -7,7 +15,7 @@
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Eytan Bakshy </h1>
+<h1 class=pfblock-header3> Eytan Bakshy</h1>
 <h3 class=pfblock-header3> Facebook Core Data Science Team </h3>
 <h3 class=pfblock-header3> Facebook </h3>
 
@@ -23,7 +31,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-<a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/04-08_Bakshy> Efficient Experimental Design with Adaptive Experimentation </a>
+  <a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/04-08_Bakshy> Efficient Experimental Design with Adaptive Experimentation </a>
 </h2>
 
 <br>
@@ -46,15 +54,17 @@
 
 <p class=footertext2>
 
-**Eytan Bakshy** is the principal scientist and director on the Facebook Core Data Science Team, where he leads the Adaptive Experimentation group. Eytan is particularly interested in developing practical and robust methods for sequential experimentation and reinforcement learning for real-world applications. Much of Eytan's work has been motivated by the use of randomized experiments for understanding social behavior, including influence and information diffusion in networks.
-
+**Eytan Bakshy** is the principal scientist and director on the Facebook Core Data Science Team, where he leads the Adaptive Experimentation group. Eytan is particularly interested in developing practical and robust methods for sequential experimentation and reinforcement learning for real-world applications. Much of Eytan's work has beeen motivated by the use of randomized experiments for understanding social behavior, including influence and information diffusion in networks.
 </p>
 
 <br>
 
+<p class=footertext2>
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJErfu6vqjMpE9xmQAuBstken9es1UOfeBzh) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+</p>
 
 <br>
+
 This week's recommended reading:
 
 - [Letham, B., Feng, Q., Daulton, S., Bakshy, E. (2021). Real-World Bayesian Optimization with A/B Tests.](https://github.com/uchicago-computation-workshop/Spring2021/blob/master/04-08_Bakshy/bayesopt_for_ab_testing_review.pdf)
@@ -62,7 +72,6 @@ This week's recommended reading:
 Additional suggestions for optional reading:
 
 - [Letham, B., Karrer, B., Ottoni, G., Bakshy, E. (2019). Constrained Bayesian Optimization with Noisy Experiments. Bayesian Analysis, 14(2), (pp. 495-519).](https://github.com/uchicago-computation-workshop/Spring2021/blob/master/04-08_Bakshy/18_BA1110.pdf)
-
 - [Bakshy, E., Dworkin, L., Karrer, B., Kashin, K., Letham, B., Murthy, A., Singh, S. (2018). AE: A domain-agnostic platform for adaptive experimentation. In 'Workshop on System for ML.'](https://github.com/uchicago-computation-workshop/Spring2021/blob/master/04-08_Bakshy/ae_workshop_2018.pdf)
 
 <br>
