@@ -6,6 +6,9 @@
 ### April 1 - [Ana-Andreea Stoica](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/04-01_Stoica)
 <div><img src="http://www.columbia.edu/~as5001/images/headshot.png" width="240"></div>
 
+### April 8 - [Eytan Bakshy](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/04-08_Bakshy)
+<div><img src="https://eytan.github.io/me_bw.jpg" width="240"></div>
+
 
 <br>
 <br>
