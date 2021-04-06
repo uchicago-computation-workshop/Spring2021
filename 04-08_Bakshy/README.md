@@ -60,9 +60,7 @@ output:
 
 <br>
 
-<p class=footertext2>
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJErfu6vqjMpE9xmQAuBstken9es1UOfeBzh) to request access. Only accounts affiliated with the University of Chicago will be granted access.
-</p>
 
 <br>
 This week's recommended reading:
@@ -85,5 +83,5 @@ Additional suggestions for optional reading:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2021/issues/1>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/04-01_Stoica>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2021/issues/2>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/04-08_Bakshy>workshop's public repository on GitHub.</a></p>
 
