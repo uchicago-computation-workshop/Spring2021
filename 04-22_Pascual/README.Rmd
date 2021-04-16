@@ -21,9 +21,9 @@ github_home <- "https://github.com/uchicago-computation-workshop"
 issues_url <- "https://github.com/uchicago-computation-workshop/Spring2021/issues/4"
 zoom_url <- "https://uchicago.zoom.us/meeting/register/tJMvdOGupzsiG9LH_avxW_vY_NJxc9ExTRJF"
 #Papers
-week_paper_ref0 <- "He, Q., Pilosof, S., Tiedje, K.E., Ruybal-Pesántez, S., Artzy-Randrup, Y., Baskerville, E. B., ... & Pascual, M. (2018). Networks of genetic similarity reveal non-neutral processes shape strain structure in Plasmodium falciparum. Nature Communications, 9(1), 1-12."
+week_paper_ref0 <- "He, Q., Pilosof, S., Tiedje, K.E., Ruybal-Pesántez, S., Artzy-Randrup, Y., Baskerville, E. B., ... & Pascual, M. (2018). Networks of genetic similarity reveal non-neutral processes shape strain structure in Plasmodium falciparum. Nature Communications, 9(1817), 1-12."
 week_paper_file0 <- "pascual_reading1.pdf"
-week_paper_ref1 <- "Pilosof, S., Alcala-Corona, S. A., Wang, T., Kim, T., Maslov, S., Whitaker, R., & Pascual, M. (2020). The network structure and eco-evolutionary dynamics of CRISPR-induced immune diversification. Nature Ecology & Evolution, 4(12), 1650-1660."
+week_paper_ref1 <- "Pilosof, S., Alcalá-Corona, S. A., Wang, T., Kim, T., Maslov, S., Whitaker, R., & Pascual, M. (2020). The network structure and eco-evolutionary dynamics of CRISPR-induced immune diversification. Nature Ecology & Evolution, 4(12), 1650-1660."
 week_paper_file1 <- "pascual_reading2.pdf"
 
 #No Need to Edit
