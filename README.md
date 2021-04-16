@@ -12,6 +12,9 @@
 ### April 15 - [James Evans](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/04-15_Evans)
 <div><img src="https://sociology.uchicago.edu/sites/sociology.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/1%20%284%29.jpg?itok=b1wuZWzi" width="240"></div>
 
+### April 22 - [Mercedes Pascual](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/04-22_Pascual)
+<div><img src="" width="240"></div>
+
 <br>
 <br>
 
