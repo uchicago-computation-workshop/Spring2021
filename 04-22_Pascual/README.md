@@ -1,3 +1,11 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
 
 
 
@@ -7,7 +15,7 @@
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Mercedes Pascual </h1>
+<h1 class=pfblock-header3> Mercedes Pascual</h1>
 <h3 class=pfblock-header3> Department of Ecology and Evolution </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
