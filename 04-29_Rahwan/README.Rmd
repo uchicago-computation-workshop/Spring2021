@@ -21,7 +21,7 @@ github_home <- "https://github.com/uchicago-computation-workshop"
 issues_url <- "https://github.com/uchicago-computation-workshop/Spring2021/issues/5"
 zoom_url <- "https://uchicago.zoom.us/meeting/register/tJUlcuGurzgoHN2J5RJuOaZjJs5Zp27ifRur"
 #Papers
-week_paper_ref0 <- "E. Awad, S. Dsouza, R. Kim, J. Schulz, J. Henrich, A. Shariff, J.-F. Bonnefon, I. Rahwan (2018). The Moral Machine Experiment. Nature. 562 (7729)."
+week_paper_ref0 <- "E. Awad, S. Dsouza, R. Kim, J. Schulz, J. Henrich, A. Shariff, J.-F. Bonnefon, I. Rahwan (2018). The Moral Machine experiment. Nature. 562 (7729)."
 week_paper_file0 <- "rahwan_reading1.pdf"
 week_paper_ref1 <- "E. Awad, S. Dsouza, J.-F. Bonnefon, A. Shariff, I. Rahwan (2020). Crowdsourcing Moral Machines. Communications of the ACM, March 2020, Vol. 63 No. 3, Pages 48-55."
 week_paper_file1 <- "rahwan_reading2.pdf"
@@ -35,7 +35,7 @@ readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computat
 
 readings1 <- paste0("[", week_paper_ref1,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file1,")")
 
-readings2 <- paste0("[", week_paper_ref2,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file1,")")
+readings2 <- paste0("[", week_paper_ref2,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file2,")")
 
 ```
 

@@ -4,9 +4,9 @@
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Iyad Rahwan </h1>
+<h1 class=pfblock-header3> Iyad Rahwan</h1>
 <h3 class=pfblock-header3> Center for Humans and Machines </h3>
-<h3 class=pfblock-header3> Max Planck Institute for Human Development </h3>
+<h3 class=pfblock-header3> Max Planck Institute for Human Development  </h3>
 
 <br><br>
 
@@ -30,7 +30,7 @@
 
 <p class=footertext2>
 
-**Summary:** Machine intelligence plays a growing role in our lives. How do we ensure that these machines will be trustworthy? This talk explores various psychological, social, cultural and political factors that shape our trust in machines. It will also propose an interdisciplinary agenda for understanding and improving our human-machine ecology. 
+**Summary:** Machine intelligence plays a growing role in our lives. How do we ensure that these machines will be trustworthy? This talk explores various psychological, social, cultural and political factors that shape our trust in machines. It will also propose an interdisciplinary agenda for understanding and improving our human-machine ecology.  
 
 </p>
 
@@ -53,9 +53,9 @@
 
 <br>
 
-This week's recommended readings:
+This week's recommended reading:
 
-- [E. Awad, S. Dsouza, R. Kim, J. Schulz, J. Henrich, A. Shariff, J.-F. Bonnefon, I. Rahwan (2018). The Moral Machine Experiment. Nature. 562 (7729).](https://github.com/uchicago-computation-workshop/Spring2021/blob/master/04-29_Rahwan/rahwan_reading1.pdf)
+- [E. Awad, S. Dsouza, R. Kim, J. Schulz, J. Henrich, A. Shariff, J.-F. Bonnefon, I. Rahwan (2018). The Moral Machine experiment. Nature. 562 (7729).](https://github.com/uchicago-computation-workshop/Spring2021/blob/master/04-29_Rahwan/rahwan_reading1.pdf)
 
 - [E. Awad, S. Dsouza, J.-F. Bonnefon, A. Shariff, I. Rahwan (2020). Crowdsourcing Moral Machines. Communications of the ACM, March 2020, Vol. 63 No. 3, Pages 48-55.](https://github.com/uchicago-computation-workshop/Spring2021/blob/master/04-29_Rahwan/rahwan_reading2.pdf)
 
