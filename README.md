@@ -18,7 +18,9 @@
 ### April 29 - [Iyad Rahwan](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/04-29_Rahwan)
 <div><img src="https://images.squarespace-cdn.com/content/v1/5925f57159cc6822d63a75b0/1495788965045-2OMOST0XDRFBXWWS3MQK/ke17ZwdGBToddI8pDm48kOpPaJovcdvmqBwinY8sZy17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UdgepIoEx-MUh3K0mR_NyiovrncEPvkp1nf80b_xbpbf5-NaFAjT2bqbYOqLXVJa5A/Iyad-Rahwan.jpg?format=750w" width="240"></div>
 
-<br>
+### May 6 - [Michal Kosinski](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/05-06_Kosinski)
+<div><img src="kosinski.jpg" width="240"></div>
+
 <br>
 
 ## Checking Your GitHub Participation (For MACSS Students) 
