@@ -4,9 +4,9 @@
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Michal Kosinski </h1>
+<h1 class=pfblock-header3> Michal Kosinski</h1>
 <h3 class=pfblock-header3> Stanford Graduate School of Business </h3>
-<h3 class=pfblock-header3> Stanford University   </h3>
+<h3 class=pfblock-header3> Stanford University </h3>
 
 <br><br>
 
@@ -30,7 +30,7 @@
 
 <p class=footertext2>
 
-**Summary:** A growing proportion of human activities―such as social interactions, entertainment, shopping, and gathering information―are now mediated by digital devices and services. Such digitally mediated activities can be easily recorded, offering an unprecedented opportunity to study and assess psychological traits using actual (rather than self-reported) behavior. Our research shows that digital records of behavior―such as facial images, samples of text, Tweets, Facebook Likes, or web-browsing logs―can be used to accurately measure a wide range of psychological traits. Such predictions do not require participants' active involvement; can be easily and inexpensively applied to large populations; and are relatively immune to misrepresentation. Consequently, the predictability of psychological traits offers a promise to improve research and practice in fields ranging from psychology, sociology, and education to management and marketing. However, if applied unethically, the same models pose unprecedented risks to the privacy and well-being of entire societies.  
+**Summary:** A growing proportion of human activities―such as social interactions, entertainment, shopping, and gathering information―are now mediated by digital devices and services. Such digitally mediated activities can be easily recorded, offering an unprecedented opportunity to study and assess psychological traits using actual (rather than self-reported) behavior. Our research shows that digital records of behavior―such as facial images, samples of text, Tweets, Facebook Likes, or web-browsing logs―can be used to accurately measure a wide range of psychological traits. Such predictions do not require participants' active involvement; can be easily and inexpensively applied to large populations; and are relatively immune to misrepresentation. Consequently, the predictability of psychological traits offers a promise to improve research and practice in fields ranging from psychology, sociology, and education to management and marketing. However, if applied unethically, the same models pose unprecedented risks to the privacy and well-being of entire societies. 
 
 </p>
 
@@ -43,7 +43,7 @@
 
 <p class=footertext2>
 
-**Michal Kosinski ** is an Associate Professor in Organizational Behavior at Stanford University Graduate School of Business. He studies humans in a digital environment using cutting-edge computational methods, AI and Big Data. Michal published over 70 papers in leading journals including Proceedings of the National Academy of Sciences, Machine Learning, Psychological Science, and Journal of Personality and Social Psychology, that have been cited over 12,000 times and earned him a 2015 Rising Star award from the Association of Psychological Science. His research inspired a cover of The Economist, a 2014 theatre play “Privacy,” multiple TED talks, a video game, and was discussed in thousands of books, press articles, podcasts, and documentaries. Also, he was the first to warn against the privacy risks later employed by Cambridge Analytica. Michal received his PhD in Psychology from the University of Cambridge (UK) in 2014. Prior to his current appointment, he was a Postdoctoral Scholar at Stanford's Computer Science Department and a researcher at Microsoft Research.
+**Michal Kosinski** is an Associate Professor in Organizational Behavior at Stanford University Graduate School of Business. He studies humans in a digital environment using cutting-edge computational methods, AI and Big Data. Michal published over 70 papers in leading journals including Proceedings of the National Academy of Sciences, Machine Learning, Psychological Science, and Journal of Personality and Social Psychology, that have been cited over 12,000 times and earned him a 2015 Rising Star award from the Association of Psychological Science. His research inspired a cover of The Economist, a 2014 theatre play “Privacy,” multiple TED talks, a video game, and was discussed in thousands of books, press articles, podcasts, and documentaries. Also, he was the first to warn against the privacy risks later employed by Cambridge Analytica. Michal received his PhD in Psychology from the University of Cambridge (UK) in 2014. Prior to his current appointment, he was a Postdoctoral Scholar at Stanford's Computer Science Department and a researcher at Microsoft Research.
 
 </p>
 
