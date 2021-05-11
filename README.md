@@ -21,6 +21,9 @@
 ### May 6 - [Michal Kosinski](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/05-06_Kosinski)
 <div><img src="kosinski.jpg" width="240"></div>
 
+### May 613 - [Sarah Sebo](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/05-06_Kosinski)
+<div><img src="sarah.jpg" width="240"></div>
+
 <br>
 
 ## Checking Your GitHub Participation (For MACSS Students) 
