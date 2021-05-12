@@ -1,10 +1,9 @@
 
-
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Sarah Sebo </h1>
+<h1 class=pfblock-header3> Sarah Sebo</h1>
 <h3 class=pfblock-header3> Computer Science Department </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
@@ -20,7 +19,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/05-06_Kosinski> Developing Robot Teammates that Enhance Social Dynamics in Human-Robot Teams </a>
+  <a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/05-13_Sebo> Developing Robot Teammates that Enhance Social Dynamics in Human-Robot Teams </a>
 </h2>
 
 <br>
@@ -43,7 +42,7 @@
 
 <p class=footertext2>
 
-**Sarah Sebo** is an Assistant Professor in the Computer Science Department at the University of Chicago. Her research explores social dynamics in human-robot interactions, where a robot's social behaviors lead to positive outcomes for people. Dr. Sebo completed her Ph.D. at Yale University where she worked with Dr. Brian Scassellati in the Social Robotics Lab and her B.S. in Electrical and Computer Engineering from Franklin W. Olin College of Engineering. 
+**Sarah Sebo** is an Assistant Professor in the Computer Science Department at the University of Chicago. Her research explores social dynamics in human-robot interactions, where a robot's social behaviors lead to positive outcomes for people. Dr. Sebo completed her Ph.D. at Yale University where she worked with Dr. Brian Scassellati in the Social Robotics Lab and her B.S. in Electrical and Computer Engineering from Franklin W. Olin College of Engineering. .
 
 </p>
 
