@@ -1,4 +1,5 @@
 
+
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
@@ -19,7 +20,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/05-20_Ettinger> "Understanding" and prediction: Controlled examinations of meaning sensitivity in pre-trained NLP models </a>
+  <a href=https://github.com/uchicago-computation-workshop/Spring2021/tree/master/05-20_Ettinger> 'Understanding' and prediction: Controlled examinations of meaning sensitivity in pre-trained NLP models </a>
 </h2>
 
 <br>
@@ -52,7 +53,7 @@
 
 <br>
 
-This week's required reading:
+This week's required reading::
 
 - [Ettinger, A. (2020). What BERT is not: Lessons from a new suite of psycholinguistic diagnostics for language models. Transactions of the Association for Computational Linguistics, 8, 34-48.](https://github.com/uchicago-computation-workshop/Spring2021/blob/master/05-20_Ettinger/ettinger_1.pdf)
 
