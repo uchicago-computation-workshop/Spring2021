@@ -24,6 +24,9 @@
 ### May 13 - [Sarah Sebo](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/05-13_Sebo)
 <div><img src="sarah.jpg" width="240"></div>
 
+### May 20 - [Allyson Ettinger](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/05-20_Ettinger)
+<div><img src="https://humanities-web.s3.us-east-2.amazonaws.com/linguistics/prod/styles/square_image_large/s3/2019-10/Allyson%20Ettinger_1.jpg?itok=xZCgFgjm" width="240"></div>
+
 <br>
 
 ## Checking Your GitHub Participation (For MACSS Students) 
