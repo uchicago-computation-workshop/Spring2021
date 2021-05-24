@@ -1,10 +1,21 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+
+
 
 
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Devin Pope </h1>
+<h1 class=pfblock-header3> Devin Pope</h1>
 <h3 class=pfblock-header3> Booth School of Business </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
@@ -44,6 +55,7 @@
 <p class=footertext2>
 
 **Devin Pope** studies a variety of topics at the intersection of economics and psychology. He has published work in top economics outlets such as the American Economic Review, Quarterly Journal of Economics, Journal of Political Economy, and Review of Economic Studies. He has also published in psychology and multidisciplinary outlets such as Management Science and Psychological Science. Using primarily observational data, Pope studies how psychological biases play out in field settings and economic markets. Examples include left-digit bias and projection bias in car markets and time inconsistency in housing markets. Prior to joining the Chicago Booth faculty in 2010, Pope was on the faculty at the Wharton School at the University of Pennsylvania. He earned a PhD in economics from UC Berkeley in 2007 and a BA in economics from Brigham Young University in 2002.
+
 </p>
 
 <br>
@@ -55,6 +67,7 @@
 This week's recommended reading:
 
 - [Lacetera, N., Pope, D. G., & Sydnor, J. R. (2012). Heuristic thinking and limited attention in the car market. American Economic Review, 102(5), 2206-36.](https://github.com/uchicago-computation-workshop/Spring2021/blob/master/05-27_Pope/pope_1.pdf)
+
 
 <br>
 
