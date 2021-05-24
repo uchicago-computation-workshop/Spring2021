@@ -27,6 +27,9 @@
 ### May 20 - [Allyson Ettinger](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/05-20_Ettinger)
 <div><img src="https://humanities-web.s3.us-east-2.amazonaws.com/linguistics/prod/styles/square_image_large/s3/2019-10/Allyson%20Ettinger_1.jpg?itok=xZCgFgjm" width="240"></div>
 
+### May 27 - [Devin Pope](https://github.com/uchicago-computation-workshop/Spring2021/tree/main/05-27_Pope)
+<div><img src="https://www.chicagobooth.edu/-/media/project/chicago-booth/faculty-and-insights/faculty/devin-pope/chicago-booth-devin-pope.jpg?cx=0.51&cy=0.35&cw=749&ch=940&hash=A870DECC9FB521FCCAA31F4795165B2A" width="240"></div>
+
 <br>
 
 ## Checking Your GitHub Participation (For MACSS Students) 
